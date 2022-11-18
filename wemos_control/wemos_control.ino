@@ -17,10 +17,10 @@ char pass[] = "Design&Fabric8";
 int joyposVert = 128;
 int joyposHorz = 128;
 
-#define forward D4
-#define backward D5
-#define left D6
-#define right D7
+#define forward 4
+#define backward 5
+#define left 6
+#define right 7
 
 
 // This function is called every time the device is connected to the Blynk.Cloud
